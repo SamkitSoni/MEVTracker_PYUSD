@@ -2,6 +2,7 @@
 node_modules/
 .env
 key.json
+gcp-service-account.json
 
 # Logs
 logs

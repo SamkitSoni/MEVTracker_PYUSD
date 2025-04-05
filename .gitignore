@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+key.json
+
+# Logs
+logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+#External Files
+pyusd-transfers.csv
